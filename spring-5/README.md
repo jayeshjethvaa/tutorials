@@ -1,4 +1,4 @@
-## Spring REST Example Project
+## Spring REST Example Project (First Checkin)
 
 ### The Course
 The "REST With Spring" Classes: http://bit.ly/restwithspring
